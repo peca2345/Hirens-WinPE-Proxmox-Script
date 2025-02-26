@@ -2,7 +2,7 @@
 
 ## Proxmox Shell:
 ```
-bash -c "$(wget -qLO - https://github.com/peca2345/Hirens-WinPE-Proxmox-Script/blob/main/install_hirens.sh)"
+bash -c "$(wget -qLO - https://raw.githubusercontent.com/peca2345/Hirens-WinPE-Proxmox-Script/main/install_hirens.sh)"
 ```
 
 
