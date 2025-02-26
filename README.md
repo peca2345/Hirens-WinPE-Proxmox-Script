@@ -2,8 +2,10 @@
 
 ## Proxmox Shell:
 ```
-bash -c "$(wget -qLO - https://raw.githubusercontent.com/VASUZERNAME/VAS-REPO/main/hirens_bootcd.sh)"
+bash -c "$(wget -qLO - https://github.com/peca2345/Hirens-WinPE-Proxmox-Script/blob/main/install_hirens.sh)"
 ```
+
+
 
 
 
